@@ -77,6 +77,7 @@ Selecting the right combination of features helps ensure long-term reliability, 
 Versitron also offers additional unmanaged industrial switch models and variants with different port counts and configurations, including options with 6 ports, 7 ports, and more for expanded network installations. 
 
 [Explore Versitron Collection](https://www.versitron.com/collections/fiber-ethernet-unmanaged-switches)
+
 ---
 
 
